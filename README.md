@@ -24,6 +24,7 @@ https://afdian.com/a/manong
 
 
 
+
 ### 如果你熟悉安卓开发：
 * 克隆此代码仓库到你自己的Github账号
 * 用你自己的安卓签名文件替换你克隆的仓库中的`keystore/demokeystore.jks`
